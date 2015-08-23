@@ -1,0 +1,19 @@
+c:\users\vivek\documents\visual studio 2015\Projects\Tab View WP 8\Tab View WP 8\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\vivek\documents\visual studio 2015\Projects\Tab View WP 8\Tab View WP 8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\vivek\documents\visual studio 2015\Projects\Tab View WP 8\Tab View WP 8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\vivek\documents\visual studio 2015\Projects\Tab View WP 8\Tab View WP 8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\vivek\documents\visual studio 2015\Projects\Tab View WP 8\Tab View WP 8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\vivek\documents\visual studio 2015\Projects\Tab View WP 8\Tab View WP 8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\vivek\documents\visual studio 2015\Projects\Tab View WP 8\Tab View WP 8\Bin\Debug\Tab View WP 8.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Tab View WP 8\Tab View WP 8\Bin\Debug\Tab View WP 8.pdb
+c:\users\vivek\documents\visual studio 2015\Projects\Tab View WP 8\Tab View WP 8\Bin\Debug\AppManifest.xaml
+c:\users\vivek\documents\visual studio 2015\Projects\Tab View WP 8\Tab View WP 8\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\vivek\documents\visual studio 2015\Projects\Tab View WP 8\Tab View WP 8\Bin\Debug\Tab_View_WP_8_Debug_AnyCPU.xap
+c:\users\vivek\documents\visual studio 2015\Projects\Tab View WP 8\Tab View WP 8\obj\Debug\App.g.cs
+c:\users\vivek\documents\visual studio 2015\Projects\Tab View WP 8\Tab View WP 8\obj\Debug\MainPage.g.cs
+c:\users\vivek\documents\visual studio 2015\Projects\Tab View WP 8\Tab View WP 8\obj\Debug\Tab View WP 8.g.resources
+c:\users\vivek\documents\visual studio 2015\Projects\Tab View WP 8\Tab View WP 8\obj\Debug\Tab_View_WP_8.Resources.AppResources.resources
+c:\users\vivek\documents\visual studio 2015\Projects\Tab View WP 8\Tab View WP 8\obj\Debug\Tab View WP 8.csproj.GenerateResource.Cache
+c:\users\vivek\documents\visual studio 2015\Projects\Tab View WP 8\Tab View WP 8\obj\Debug\Tab View WP 8.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Tab View WP 8\Tab View WP 8\obj\Debug\Tab View WP 8.pdb
+c:\users\vivek\documents\visual studio 2015\Projects\Tab View WP 8\Tab View WP 8\obj\Debug\XapCacheFile.xml
